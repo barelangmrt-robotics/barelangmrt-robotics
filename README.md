@@ -1,6 +1,18 @@
 ## 💫 About Us:
 🛥️ About Barelang MRT:<br>We are Barelang Marine Robotic Team (Barelang MRT) — a student-based robotics team from Indonesia, dedicated to developing Autonomous Surface Vessels (ASVs) and Autonomous Underwater Vehicles (AUVs) for national and international marine robotics competitions.<br><br> 🔭 We are currently working on:<br>Barelang Nereus: Autonomous Surface Vessel<br>Barelang Casper: Autonomous Underwater Vehicle<br><br>🤝 We are looking to collaborate on:<br>Marine robotics research, embedded systems for surface and underwater vehicles, and related projects.<br><br>⚡ Fun fact<br>Our team is named after the iconic Barelang Bridge in Batam, symbolizing connection, innovation, and resilience — just like our robots.
 
+<img src="https://raw.githubusercontent.com/barelangmrt-robotics/barelangmrt-robotics/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barelangmrt-robotics/barelangmrt-robotics/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barelangmrt-robotics/barelangmrt-robotics/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/barelangmrt-robotics/barelangmrt-robotics/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barelang_mrt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BarelangMRT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrtbarelang@gmail.com) 
 
