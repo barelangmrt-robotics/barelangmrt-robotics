@@ -1,5 +1,5 @@
-# 💫 About Me:
-🛥️ About Barelang MRT:<br>We are Barelang Marine Robotic Team (Barelang MRT) — a student-based robotics team from Indonesia, dedicated to developing Autonomous Surface Vessels (ASVs) and Autonomous Underwater Vehicles (AUVs) for national and international marine robotics competitions.<br><br>🔭 We are currently working on:<br>Barelang Nereus: Autonomous Surface Vessel<br>Barelang Casper: Autonomous Underwater Vehicle<br><br>🤝 We are looking to collaborate on:<br>Marine robotics research, embedded systems for surface and underwater vehicles, and related projects.<br><br>⚡ Fun fact<br>Our team is named after the iconic Barelang Bridge in Batam, symbolizing connection, innovation, and resilience — just like our robots.
+# 💫 About us:
+🛥️ About Barelang MRT:<br>We are Barelang Marine Robotic Team (Barelang MRT) — a student-based robotics team from Indonesia, dedicated to developing Autonomous Surface Vessels (ASVs) and Autonomous Underwater Vehicles (AUVs) for national and international marine robotics competitions.<br><br> 🔭 We are currently working on:<br>Barelang Nereus: Autonomous Surface Vessel<br>Barelang Casper: Autonomous Underwater Vehicle<br><br>🤝 We are looking to collaborate on:<br>Marine robotics research, embedded systems for surface and underwater vehicles, and related projects.<br><br>⚡ Fun fact<br>Our team is named after the iconic Barelang Bridge in Batam, symbolizing connection, innovation, and resilience — just like our robots.
 
 
 ## 🌐 Socials:
